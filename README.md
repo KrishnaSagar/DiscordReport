@@ -1,7 +1,7 @@
 # DiscordReport
 ![License](https://img.shields.io/github/license/Acme-Plugins/DiscordReport?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/Acme-Plugins/DiscordReport?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/Acme-Plugins/DiscordReport?style=for-the-badge)<br>
 A simple plugin that allows your Minecraft server's players to report players and bugs. Those reports go directly into a dedicated channel of your Discord server.<br>
-![https://media.discordapp.net/attachments/634094893752516609/706748433469538314/logo.png](DiscordReport Logo)
+![https://media.discordapp.net/attachments/634094893752516609/706748433469538314/logo.png](Logo)
 ## Installation
 - Download the plugin from the [**Releases**](https://github.com/Acme-Plugins/DiscordReport/releases/latest) tab.
 - Visit the [**Wiki**](https://github.com/Acme-Plugins/DiscordReport/wiki) for installation instructions.
