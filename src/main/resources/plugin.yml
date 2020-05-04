@@ -1,0 +1,13 @@
+name: DiscordReport
+version: ${project.version}
+main: cf.acmeplugins.discordreport.DiscordReport
+api-version: 1.13
+prefix: DiscordReport
+authors: [AcmePlugins, konsyr11]
+description: A plugin that allows players to report either other players or bugs they find on the server. Those reports are sent to a Discord server using a webhook!
+website: http://acmeplugins.cf/
+commands:
+  player:
+    description: Report a player to the staff team
+  bug:
+    description: Report a bug to the staff team
